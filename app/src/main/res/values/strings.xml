@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Buddy Care</string>
+
+    <string-array name="product_types">
+        <item>Food</item>
+        <item>Toys</item>
+        <item>Accessories</item>
+    </string-array>
+
+    <string-array name="age_ranges">
+        <item>Puppy</item>
+        <item>Adult</item>
+    </string-array>
+
+</resources>

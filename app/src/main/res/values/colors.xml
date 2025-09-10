@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="label_color_white">#FFFFFF</color>
+    <color name="label_color_dark">#735858</color>
+    <color name="hint_color">#757474</color>
+    <color name="input_text_color">#333333</color>
+    <color name="textfield_bg">#FFFFFF</color>
+    <color name="gold">#E0ADBE</color>
+    <color name="green_500">#00BCD4</color>
+    <color name="brown">#6F4747</color>
+    <color name="dark_pink">#CB7592</color>
+    <color name="material_dynamic_neutral20">#FFFFFF</color>
+</resources>
